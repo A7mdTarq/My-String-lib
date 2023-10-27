@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698428284 source:c:\users\lenovo\desktop\my_string\main.c
+	"MY_STRING.h"
+
+1698428305 source:c:\users\lenovo\desktop\my_string\my_string.c
+	"MY_STRING.h"
+
+1698428397 c:\users\lenovo\desktop\my_string\my_string.h
+	<stdio.h>
+	<stdlib.h>
+
